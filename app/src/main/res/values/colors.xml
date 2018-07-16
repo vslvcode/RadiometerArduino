@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="rad_normal">#00AD1C</color>
+    <color name="rad_warning">#ffd105</color>
+    <color name="rad_danger">#C70000</color>
+    <color name="black">#000000</color>
+    <color name="dark_box">#202020</color>
+    <color name="inactive">#970404</color>
+    <color name="active">#085900</color>
+</resources>
